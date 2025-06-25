@@ -6,6 +6,56 @@
 
 # 🛠️ Tech Stack:
 
-https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white
+[![Javascript][Javascript]][Javascript-url]
+[![TypeScript][TypeScript]][TypeScript-url]
+[![HTML5][HTML5]][HTML5-url]
+[![Markdown][Markdown]][Markdown-url]
+[![CSS3][CSS3]][CSS3-url]
+[![SASS][SASS]][SASS-url]
+[![Vite][Vite]][Vite-url]
+[![Git][Git]][Git-url]
+[![GitHub][GitHub]][GitHub-url]
+[![GitHubActions][GitHubActions]][GitHubActions-url]
+[![npm][npm]][npm-url]
+[![Husky][Husky]][Husky-url]
+[![Eslint][Eslint]][Eslint-url]
+[![Prettier][Prettier]][Prettier-url]
+[![Stylelint][Stylelint]][Stylelint-url]
+[![Figma][Figma]][Figma-url]
+
+[Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=262729
+[Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org
+[HTML5]: https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-url]: https://html.com/html5/
+[Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
+[Markdown-url]: https://www.markdownguide.org/
+[CSS3]: https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[SASS]: https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[SASS-url]: https://sass-lang.com/
+[Git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
+[Git-url]: https://git-scm.com/
+[GitHub]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/
+[GitHubActions]: https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+[GitHubActions-url]: https://github.com/features/actions
+[npm]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[npm-url]: https://www.npmjs.com/
+[Vite]: https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+[Vite-url]: https://vitejs.dev/
+[Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=furrynetwork&logoColor=white
+[Husky-url]: https://typicode.github.io/husky/
+[Eslint]: https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white
+[Eslint-url]: https://eslint.org/
+[Prettier]: https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=263238
+[Prettier-url]: https://prettier.io/
+[Stylelint]: https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white
+[Stylelint-url]: https://stylelint.io/
+[editorconfig]: https://img.shields.io/badge/editorconfig-FEFEFE?style=for-the-badge&logo=editorconfig&logoColor=262729
+[editorconfig-url]: https://editorconfig.org/
+[Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[Figma-url]: https://www.figma.com/
 
 
