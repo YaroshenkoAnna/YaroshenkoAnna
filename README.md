@@ -12,11 +12,16 @@
 [![Markdown][Markdown]][Markdown-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
+[![PrimeVue][PrimeVue]][PrimeVue-url]
+[![Tailwind CSS][Tailwind CSS]][TailwindCSS-url]
+[![Vue][Vue]][Vue-url]
 [![Vite][Vite]][Vite-url]
 [![Git][Git]][Git-url]
 [![GitHub][GitHub]][GitHub-url]
 [![GitHubActions][GitHubActions]][GitHubActions-url]
 [![npm][npm]][npm-url]
+[![pnpm][pnpm]][pnpm-url]
+[![Vitest][Vitest]][Vitest-url]
 [![Husky][Husky]][Husky-url]
 [![Eslint][Eslint]][Eslint-url]
 [![Prettier][Prettier]][Prettier-url]
@@ -35,6 +40,12 @@
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [SASS]: https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [SASS-url]: https://sass-lang.com/
+[PrimeVue]: https://img.shields.io/badge/PrimeVue-2088FF?style=for-the-badge&logo=PrimeVue&logoColor=white
+[PrimeVue-url]: https://primevue.org/
+[Tailwind CSS]: https://img.shields.io/badge/tailwindcss-CB3837?style=for-the-badge&logo=tailwindcss&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/
+[Vue]: https://img.shields.io/badge/Vue.js-F7DF1E?style=for-the-badge&logo=Vue.js&logoColor=262729
+[Vue-url]:  https://vuejs.org/
 [Git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com/
 [GitHub]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
@@ -43,6 +54,10 @@
 [GitHubActions-url]: https://github.com/features/actions
 [npm]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
 [npm-url]: https://www.npmjs.com/
+[pnpm]: https://img.shields.io/badge/pnpm-F7DF1E?style=for-the-badge&logo=pnpm&logoColor=262729
+[pnpm-url]: https://pnpm.io/
+[Vitest]: https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=Vitest&logoColor=white
+[Vitest-url]: https://vitest.dev/guide/
 [Vite]: https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: https://vitejs.dev/
 [Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=furrynetwork&logoColor=white
