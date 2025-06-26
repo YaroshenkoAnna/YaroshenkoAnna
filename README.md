@@ -84,7 +84,7 @@
 # 🚀 My Projects:
 |Project build|Description|Stack|Repository link|
 |:---:|:---:|:---:|:---:|
-|**[name](https://link)**|Description|stack|[ repository](https://link)|
+|**[Senet](https://rpgheroes.netlify.app/)**|Senet is a collaborative team project — an eCommerce web application for board games, built with Vue and integrated with Commercetools. I was responsible for developing the registration, login, profile, and cart pages.|Typescript, Vue, Primevue, Vue Router, Tailwind CSS, Pinia, TanStack Query, Vite, Commerce Tools, GitHub Actions, Netlify, Husky, ESLint, Prettier, Commitlint, Vitest|[Senet repository](https://github.com/ketrololz/market)|
 
 
 
