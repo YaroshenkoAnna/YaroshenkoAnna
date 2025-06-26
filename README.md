@@ -85,6 +85,7 @@
 |Project build|Description|Stack|Repository link|
 |:---:|:---:|:---:|:---:|
 |**[Senet](https://rpgheroes.netlify.app/)**|Senet is a collaborative team project — an eCommerce web application for board games, built with Vue and integrated with Commercetools. I was responsible for developing the registration, login, profile, and cart pages.|Typescript, Vue, Primevue, Vue Router, Tailwind CSS, Pinia, TanStack Query, Vite, Commerce Tools, GitHub Actions, Netlify, Husky, ESLint, Prettier, Commitlint, Vitest|[Senet repository](https://github.com/ketrololz/market)|
+|**[Christmas Shop](https://statuesque-hummingbird-9963c4.netlify.app/)**|Web site about Cristmas and gifts. It's a two pages application.|JavaScript, HTML, SCSS, Webpack|[Christmas Shop repository](https://github.com/YaroshenkoAnna/Christmas-shop)
 
 
 
