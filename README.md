@@ -81,7 +81,7 @@
 [Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [Figma-url]: https://www.figma.com/
 
-# :fire: My Projects:
+# 🚀 My Projects:
 |Project build|Description|Stack|Repository link|
 |:---:|:---:|:---:|:---:|
 |**[name](https://link)**|Description|stack|[ repository](https://link)|
