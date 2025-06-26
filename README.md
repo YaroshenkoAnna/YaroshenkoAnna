@@ -1,8 +1,16 @@
-## Hello! I'm Anna! 👋
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=yaroshenkoanna&label=Profile%20views&color=0e75b6&style=flat"/> 
+  <a href="https://www.codewars.com/users/rsschool_5caf46c96695fa2c"><img src="https://www.codewars.com/users/rsschool_5caf46c96695fa2c/badges/micro"/></a> 
+</p>
+
+  # Hello! I'm Anna! 👋
+
+
+
 
 ## 📫 My contacts: 
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/annay.1935) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaroshenkoannatte@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/annay.1935) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaroshenkoannette@gmail.com) 
 
 # 🛠️ Tech Stack:
 
@@ -73,4 +81,10 @@
 [Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [Figma-url]: https://www.figma.com/
 
+# :fire: My Stats :
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroshenkoanna&theme=solarized_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaroshenkoanna&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroshenkoanna&theme=solarized_dark)
 
